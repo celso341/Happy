@@ -1,38 +1,37 @@
-<h1 align="center"> 🎈 Happy </h1>
+<h3 align="center">
+    <img alt="Logo" title="logo" width="300px" src="./web/src/images/logo.svg">
+    <br><br>
+    <b>Leve felicidade para o mundo! 🎈</b> 
+</h3>
 
 <p align="center">
-  Aplicação que conecta pessoas a casas de acolhimento institucional para levar felicidade a muitas crianças.
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-15C3D6">
+  </a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
-</p>
+## :bookmark: Sobre
+O **Happy** é uma aplicação que conecta pessoas a casas de acolhimento institucional para levar felicidade a muitas crianças através de visitas agendadas.
 
-## 💻 Sobre o Projeto
-O **Happy** é um projeto desenvolvido para facilitar visitas a orfanatos e casas de acolhimento. Através de um mapa interactivo, o utilizador pode encontrar instituições próximas, ver horários de visita e entrar em contacto. 
+## 🤔 Por que o Happy?
+Muitas casas de acolhimento dependem de visitas e doações para manter o bem-estar das crianças. O Happy facilita esse encontro através de um mapa interativo e informações claras sobre como visitar. 
 
-**Curiosidade:** Este projeto foi a principal inspiração técnica e conceptual para o desenvolvimento do meu projeto autoral, o **AdotaDog**.
+## 🚀 Tecnologias usadas
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
-## 🛠️ Tecnologias
-Este projeto utiliza a stack completa de JavaScript:
+## :fire: Como usar
+1. Faça um clone: `$ git clone https://github.com/celso341/Happy.git`
+2. Executando:
+   - `$ cd backend && npm install && npm start`
+   - `$ cd web && npm install && npm start`
 
-- **Frontend**: React.js
-- **Backend**: Node.js
-- **Mobile**: React Native
-- **Mapas**: Leaflet / React-Leaflet
-- **Banco de Dados**: SQLite / TypeORM
-
-## ⚙️ Funcionalidades Principais
-- Visualização de instituições num mapa interactivo.
-- Cadastro completo de novas instituições (nome, fotos, instruções de visita e horários).
-- Fluxo de aprovação de registos.
-- Interface adaptada para Web e Mobile.
-
-## 🚀 Como Executar
-1. Clone este repositório.
-2. No diretório `backend`, execute `npm install` e `npm start`.
-3. No diretório `web`, execute `npm install` e `npm start`.
-4. (Opcional) No diretório `mobile`, execute `npm install` e `expo start`.
+## :memo: License
+Esse projeto está sob a licença MIT.
 
 ---
-Desenvolvido por **Celso Junior** | Inspirado na Next Level Week da Rocketseat.
+<h4 align="center">
+    Feito com 💙 by <a href="https://www.linkedin.com/in/celso-de-oliveira-j%C3%BAnior-8335827b/" target="_blank">Celso de Oliveira jr</a>
+</h4>
